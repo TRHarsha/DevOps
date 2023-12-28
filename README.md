@@ -48,17 +48,17 @@ e. **Continuous Improvements:** Foster a culture of continuous learning and impr
 
 These principles and ingredients are fundamental to implementing and embracing DevOps practices successfully.
 
-##Application of DevOps
+## 5. Application of DevOps
 
-a. **Banking
-b. **Healthcare
-c. **Insurance
-d. **Inventory Management
+a. **Banking**
+b. **Healthcare**
+c. **Insurance**
+d. **Inventory Management**
 
-##Benefits of DevOps
+## 6. Benefits of DevOps
 
-a. **Accelerate time to Market
-b. **Cost Minimization
-c. **Reliable Releases
-d. **Customer Satisfaction
-e. **Quick Bug Fixing
+a. **Accelerate time to Market**
+b. **Cost Minimization**
+c. **Reliable Releases**
+d. **Customer Satisfaction**
+e. **Quick Bug Fixing**
