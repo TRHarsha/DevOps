@@ -12,8 +12,6 @@
 
 ### 2.2 [Principles of DevOps](2_Introduction_to_DevOps.md#22-principles-of-devops)
 
-### 2.3 Application of DevOps
+### 2.3 [Application of DevOps](2_Introduction_to_DevOps.md#23-application-of-devops)
 
-This is a test statement
-
-### 2.4 Benefits of DevOps
+### 2.4 [Benefits of DevOps](2_Introduction_to_DevOps.md#24-benefits-of-devops)
