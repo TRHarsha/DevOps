@@ -47,3 +47,18 @@ d. **Automation:** Automate repetitive tasks to increase efficiency and reduce e
 e. **Continuous Improvements:** Foster a culture of continuous learning and improvement in all aspects of development and operations.
 
 These principles and ingredients are fundamental to implementing and embracing DevOps practices successfully.
+
+##Application of DevOps
+
+a. **Banking
+b. **Healthcare
+c. **Insurance
+d. **Inventory Management
+
+##Benefits of DevOps
+
+a. **Accelerate time to Market
+b. **Cost Minimization
+c. **Reliable Releases
+d. **Customer Satisfaction
+e. **Quick Bug Fixing
