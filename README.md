@@ -6,7 +6,7 @@
 
 ### 1.2 Phases of SDLC
 
-## 2. Introduction to DevOps
+## 2. [Introduction to DevOps](2_Introduction_to_DevOps.md)
 
 ### 2.1 Ingredients of DevOps
 
