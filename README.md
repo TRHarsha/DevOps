@@ -2,7 +2,7 @@
 
 ## 1. [Software Development Life Cycle (SDLC)](1_Fundamentals_of_SDLC.md)
 
-### 1.1 Define SDLC
+### 1.1 [Define SDLC](1_Fundamentals_of_SDLC.md#11-define-sdlc)
 
 ### 1.2 Phases of SDLC
 
