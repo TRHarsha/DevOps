@@ -4,13 +4,13 @@
 
 ### 1.1 [Define SDLC](1_Fundamentals_of_SDLC.md#11-define-sdlc)
 
-### 1.2 Phases of SDLC
+### 1.2 [Phases of SDLC](1_Fundamentals_of_SDLC.md#12-phases-of-sdlc)
 
 ## 2. [Introduction to DevOps](2_Introduction_to_DevOps.md)
 
-### 2.1 Ingredients of DevOps
+### 2.1 [Ingredients of DevOps](2_Introduction_to_DevOps.md#21-ingredients-of-devops)
 
-### 2.2 Principles of DevOps
+### 2.2 [Principles of DevOps](2_Introduction_to_DevOps.md#22-principles-of-devops)
 
 ### 2.3 Application of DevOps
 
