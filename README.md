@@ -1,6 +1,6 @@
 # DevOps Content
 
-## 1. Software Development Life Cycle (SDLC) [a link]([https://github.com/TRHarsha/DevOps/blob/main/1_Fundamentals_of_SDLC.md])
+## 1. Software Development Life Cycle (SDLC) [a link]([TRHarsha/DevOps/blob/main/1_Fundamentals_of_SDLC.md])
 
 ### 1.1 Define SDLC
 
