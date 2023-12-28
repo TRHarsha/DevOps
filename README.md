@@ -51,14 +51,21 @@ These principles and ingredients are fundamental to implementing and embracing D
 ## 5. Application of DevOps
 
 a. **Banking**
+
 b. **Healthcare**
+
 c. **Insurance**
+
 d. **Inventory Management**
 
 ## 6. Benefits of DevOps
 
 a. **Accelerate time to Market**
+
 b. **Cost Minimization**
+
 c. **Reliable Releases**
+
 d. **Customer Satisfaction**
+
 e. **Quick Bug Fixing**
