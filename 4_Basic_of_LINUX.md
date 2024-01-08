@@ -1,4 +1,4 @@
-# Basics of LINUX Notes
+# 4. Basics of LINUX
 
 ## 4.1 Features of LINUX
 
@@ -21,9 +21,9 @@ Linux excels in network functionality, offering a wide range of networking tools
 Linux exhibits high portability, enabling it to run on various hardware architectures and platforms with minimal modifications.
 
 ### g. Multi-User Support
-Linux allows multiple users to access and use the system simultaneously, with each user having their own personalized environment and access permissions.
+Linux allows multiple users to access and use the system simultaneously, with each user having their own personalized environment and access permissio
 
-## 4.2 Basic Linux Commands
+## 4.2 Basic Commands of LINUX
 
 | Command                 | Description                              |
 | ----------------------- | ---------------------------------------- |
